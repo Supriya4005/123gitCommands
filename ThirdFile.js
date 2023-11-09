@@ -1,3 +1,3 @@
-class ThirdFile{
-
+class ThirdFile {
+    
 }
